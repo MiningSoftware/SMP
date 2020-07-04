@@ -15,3 +15,7 @@ SMP + Features
     • ♻️ CPU & GPU Mining
     • To start mining using SMP +, just enter your wallet in the .bat file of the selected miner
     • SMP + has demonstrated high performance when working with Bitcoin, Ethereum, Ethereum Classic, Monero, Raven and other currencies, stands out for its high stability and easy setup.
+
+Screenshot:
+https://github.com/MiningSoftware/SMP/blob/master/SMP%20%2B%20v1.0.PNG
+https://github.com/MiningSoftware/SMP/blob/master/SMP%2B%20miners.PNG
