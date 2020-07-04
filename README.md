@@ -27,7 +27,7 @@ Screenshot:
 - https://github.com/MiningSoftware/SMP/blob/master/SMP%2B%20miners.PNG
 
 Full list of supported preinstalled miners of the full version of SMP +:
-- For current versions and pre-installed miners, see the release note
+- ! For current versions and pre-installed miners, see the release note
 
 + Bminer
 + ccminer
