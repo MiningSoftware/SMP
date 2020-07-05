@@ -1,4 +1,4 @@
-# SartMinerPRO SMP
+# SmartMinerPRO
 
  SMP is a software product developed by SmartMiner.PRO with a simple and convenient GUI. This version of SMP + was created to work with each cryptocurrency based on these algorithms, including Bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many others. This version of SMP + runs on Windows with AMD CPUs and GPUs or Nvidia + ASIC / FPGA.
  OS Support: Windows (64 bit).
@@ -27,7 +27,7 @@ Screenshot:
 - https://github.com/MiningSoftware/SMP/blob/master/SMP%2B%20miners.PNG
 
 Full list of supported preinstalled miners of the full version of SMP +:
-- ! For current versions and pre-installed miners, see the release note
+- For current versions and pre-installed miners, see the release note
 
 + Bminer
 + ccminer
