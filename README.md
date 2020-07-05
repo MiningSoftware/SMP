@@ -8,6 +8,7 @@
 OS Support: Windows (64 bit).
 
 SMP+ Features:
+
     • 💎 Built-in miners: XMR-STAK & XMRIG, GMINER. T-REX, TeamRedMiner, CGMiner, T-Rex, NBMiner, Nanominer, PhoenixMiner, CCMiner, miniz, cpu miner, cpuminer-opt, Kadena Miner, Kawpowminer and many others.
     • Easy installation of other miners and .bat configuration files.
     • 🖥 Works on all versions of Windows (7, 8, 10)
