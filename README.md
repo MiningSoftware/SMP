@@ -44,9 +44,13 @@ How to start
 
 IMPORTANT! For your mining equipment, you must install the necessary dependencies. Since each miner program has its own requirements for work. For reference, you can refer to the root directory in the miner’s folder.
 
-CPU (x64/x86/ARM)
-OpenCL for AMD GPUs.
-CUDA for NVIDIA GPUs
+System requirements
+=================================
+
++ WINDOWS XP, 7,8,10 or later (x64) 
++ CPU (x64/x86/ARM)
++ OpenCL for AMD GPUs.
++ CUDA for NVIDIA GPUs
 
 How to use
 ================================
@@ -59,6 +63,13 @@ How to use
     • If desired, you can replace the parameters of the request, for this we recommend that you refer to the practical guide in the root folders of the miners.
 4. After replacing the values of the wallet and pool with yours, click "RUN"
 5. Then begins the extraction of coins
+
+Screenshots SMP+:
+===============================
+
+<img src="SMP + v1.0.PNG" />
+
+<img src="SMP+ miners.PNG" />
 
 Command line options
 ===============================
