@@ -75,6 +75,7 @@ Command line options
 ===============================
 
 Network:
+
   -o, --url=URL                 URL of mining server
   -a, --algo=ALGO               mining algorithm 
       --coin=COIN               specify coin instead of algorithm
@@ -96,6 +97,7 @@ Network:
       --donate-over-proxy=N     control donate over xmrig-proxy feature
 
 CPU backend:
+
       --no-cpu                  disable CPU mining backend
   -t, --threads=N               number of CPU threads
   -v, --av=N                    algorithm variation, 0 auto select
@@ -116,6 +118,7 @@ CPU backend:
       --astrobwt-avx2           enable AVX2 optimizations for AstroBWT algorithm
 
 API:
+
       --api-worker-id=ID        custom worker-id for API
       --api-id=ID               custom instance ID for API
       --http-host=HOST          bind host for HTTP API (default: 127.0.0.1)
@@ -124,6 +127,7 @@ API:
       --http-no-restricted      enable full remote access to HTTP API (only if access token set)
 
 OpenCL backend:
+
       --opencl                  enable OpenCL mining backend
       --opencl-devices=N        comma separated list of OpenCL devices to use
       --opencl-platform=N       OpenCL platform index or name
@@ -132,6 +136,7 @@ OpenCL backend:
       --print-platforms         print available OpenCL platforms and exit
 
 CUDA backend:
+
       --cuda                    enable CUDA mining backend
       --cuda-loader=PATH        path to CUDA plugin (xmrig-cuda.dll or libxmrig-cuda.so)
       --cuda-devices=N          comma separated list of CUDA devices to use
@@ -140,6 +145,7 @@ CUDA backend:
       --no-nvml                 disable NVML (NVIDIA Management Library) support
 
 TLS:
+
       --tls-gen=HOSTNAME        generate TLS certificate for specific hostname
       --tls-cert=FILE           load TLS certificate chain from a file in the PEM format
       --tls-cert-key=FILE       load TLS certificate private key from a file in the PEM format
@@ -149,6 +155,7 @@ TLS:
       --tls-ciphersuites=S      set list of available TLSv1.3 ciphersuites
 
 Logging:
+
   -S, --syslog                  use system log for output messages
   -l, --log-file=FILE           log all output to a file
       --print-time=N            print hashrate report every N seconds
@@ -157,6 +164,7 @@ Logging:
       --verbose                 verbose output
 
 Misc:
+
   -c, --config=FILE             load a JSON-format configuration file
   -B, --background              run the miner in the background
   -V, --version                 output version information and exit
