@@ -8,7 +8,7 @@ Key Features SMP:
 =================================
 
       • 💎 Built-in miners: XMR-STAK & XMRIG, GMINER. T-REX, TeamRedMiner, CGMiner, T-Rex, NBMiner, Nanominer, PhoenixMiner, CCMiner, miniz, cpu miner, cpuminer-opt, Kadena Miner, Kawpowminer and many others.
-      • 🖥 Works on all versions of Windows (7, 8, 10)
+      • 🖥 Works on all versions of Windows
       • 📊 Over 50 of the best mining puols
       • ℹ️ Complete information about each currency with links   
       • 📈 CoinGecko price and coin statistics
@@ -22,19 +22,21 @@ Key Features SMP:
 DOWNLOAD LINKS SMP/SMP+:
 =================================
 
-SMP (SmartMinerPRO) - version without pre-installed miners and batch files
+SMP (SmartMinerPRO) - version without pre-installed miners and .bat files
 - SMP.rar (50.1 MB): https://mega.nz/file/VA1G1KgK#i8fZbwm_YK80kem4dHZL8x1KVET-p_-DYIgs6ZPd1f0
 
-SMP+ (SmartMinerPRO) - version with a full package of pre-installed miners and batch files + instructions
+SMP+ (SmartMinerPRO) - version with a full package of pre-installed miners and .bat files + instructions
 - SMP+.rar (533.4 MB): https://mega.nz/file/tA0mgY5Q#RHwInzyqGMd5iOY4eMEBVNKl6l6kvI2FizOeFN7Dnx0
 
-Miners Package - This is a complete package of all miners that support SMP +
+Miners Package - This is a complete package of all miners that support SMP+
 - Miners Package [password:SMP+] (483.4 MB): https://mega.nz/file/tItj1YiJ#k-ky9tvyKA-8i1qhvwRdn21iZzVQvm_M7QTA45UDoE0
 
 Release Note:
 -------------
 
-SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. OS Support: Windows (64 bit).
+SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. 
+
+! OS Support: Windows (64 bit).
 
 How to start
 =================================
@@ -48,7 +50,7 @@ IMPORTANT! For your mining equipment, you must install the necessary dependencie
 System requirements
 =================================
 
-+ WINDOWS XP, 7,8,10 or later (x64) 
++ WINDOWS XP,7,8,10 or later (x64)
 + CPU (x64/x86/ARM)
 + OpenCL for AMD GPUs.
 + CUDA for NVIDIA GPUs
