@@ -31,7 +31,7 @@ DOWNLOAD LINKS SMP/SMP+:
 - Miners Package [password:SMP+] (483.4 MB): https://mega.nz/file/tItj1YiJ#k-ky9tvyKA-8i1qhvwRdn21iZzVQvm_M7QTA45UDoE0
 
 Release Note:
-=================================
+-------------
 
 SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. OS Support: Windows (64 bit).
 
