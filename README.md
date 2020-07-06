@@ -53,6 +53,36 @@ System requirements
 + OpenCL for AMD GPUs.
 + CUDA for NVIDIA GPUs
 
+Full list Support miners SMP+:
+==============================
+
+! Please note that the list of supported miners will be expanded with subsequent versions of the SMP +
+
++ bminer-lite-v16.2.0
++ ccminer-2.3.1-cuda10
++ Claymore_v15.0
++ cpuminer-opt-3.12.4
++ CryptoDredge_0.22.0
++ ethminer 0.19.0-alpha.0
++ EWB_v0.6 
++ Gminer_2.09
++ kawpowminer-1.2.3
++ lolMiner_v0.9.8
++ miniZ_v1.5t2_cuda10
++ NBMiner_30.2
++ PhoenixMiner_5.0e
++ Progpowminer
++ SRBMiner-CN-V1-9-3
++ SRBMiner-Multi-0-4-3
++ TeamRedMiner-v0.7.3
++ T-Rex 0.15.4
++ TT-Miner-5.0.1
++ xmrig-5.5.1
++ xmr-stak-2.10.8
++ z-enemy 2.5
++ zm_0.6.2
+
+
 How to use
 ================================
 
