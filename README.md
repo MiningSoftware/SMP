@@ -25,6 +25,11 @@ Key Features SMP:
       • 🔸 Watch-feature - automatically restart miner if crashed or hanged.
       • 🔸 Much more..
 
+Screenshots SMP+:
+===============================
+
+<img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
+
 DOWNLOAD LINKS SMP/SMP+:
 =================================
 
@@ -122,13 +127,6 @@ You can thank the SMP + development team at the following addresses:
 - ZEC: t1TVRXgQmrgHHeaheYt9mFrqh1LZBJtrfiQ
 - LTC: LWtnQjnfJe9ALd3gYwPGUxAej5JGMLPsoK
 - RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
-
-Screenshots SMP+:
-===============================
-
-<img src="SMP + v1.0.PNG" />
-
-<img src="SMP+ miners.PNG" />
 
 Command line options
 =====================
