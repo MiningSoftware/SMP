@@ -65,6 +65,8 @@ System requirements
 + up-to-date drivers for all GPUs
 + Reliable internet connectivity
 
+Note: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015 are required. No additional installations should be needed if you use Windows 7 or later. However, if you encounter any issues when starting application (application would fail to start or errors/warnings about missing DLL files are displayed) you should download and install Microsoft .NET Framework 4.8 and Microsoft Visual C++ Redistributable 2015 (vcredist_x64.exe) (after installation a reboot might be required).
+
 Full list Support miners SMP+:
 ==============================
 
