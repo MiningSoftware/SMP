@@ -25,7 +25,7 @@ Key Features SMP:
       • 🔸 Watch-feature - automatically restart miner if crashed or hanged.
       • 🔸 Much more..
 
-Screenshots SMP+:
+Screenshots GUI SMP+:
 ===============================
 
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
