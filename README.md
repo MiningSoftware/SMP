@@ -18,6 +18,13 @@ Key Features SMP:
       • 🔸 Easy installation of other miners and .bat configuration files.
       • 🔸 To start mining using SMP +, just enter your wallet in the .bat file of the selected miner
       • 🔸 SMP + has demonstrated high performance when working with Bitcoin, Ethereum, Ethereum Classic, Monero, Raven and other currencies, stands out for its high stability and easy setup.
+      • 🔸 Easy one-click CPU mining for CPUs that support at least SSE2 (only works on Windows x64).
+      • 🔸 Easy one-click GPU mining for NVIDIA GPUs using microarchitecture (compute capability) SM 3.0+.
+      • 🔸 Easy one-click GPU mining for AMD GPUs using any AMD GPU devices that supports OpenCL.
+      • 🔸 Integrated support for Simple Multi-Algorithm. Always mine most profitable algorithm.
+      • 🔸 Integrated benchmarking tool. Run it only once before you start mining and after every hardware/driver/software upgrade.
+      • 🔸 Watch-feature - automatically restart miner if crashed or hanged.
+      • 🔸 Much more..
 
 DOWNLOAD LINKS SMP/SMP+:
 =================================
