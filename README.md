@@ -9,15 +9,15 @@ Key Features SMP:
 
       • 💎 Built-in miners: XMR-STAK & XMRIG, GMINER. T-REX, TeamRedMiner, CGMiner, T-Rex, NBMiner, Nanominer, PhoenixMiner, CCMiner, miniz, cpu miner, cpuminer-opt, Kadena Miner, Kawpowminer and many others.
       • 🖥 Works on all versions of Windows (7, 8, 10)
-      • Over 50 of the best mining puols
-      • ℹ️ Complete information about each currency with links
-      • 🔸 Easy to use
+      • 📊 Over 50 of the best mining puols
+      • ℹ️ Complete information about each currency with links   
       • 📈 CoinGecko price and coin statistics
       • 📊 Coin mining statistics from Cryptunit
       • ♻️ CPU & GPU Mining
-      • Easy installation of other miners and .bat configuration files.
-      • To start mining using SMP +, just enter your wallet in the .bat file of the selected miner
-      • SMP + has demonstrated high performance when working with Bitcoin, Ethereum, Ethereum Classic, Monero, Raven and other currencies, stands out for its high stability and easy setup.
+      • 🔸 Easy to use
+      • 🔸 Easy installation of other miners and .bat configuration files.
+      • 🔸 To start mining using SMP +, just enter your wallet in the .bat file of the selected miner
+      • 🔸 SMP + has demonstrated high performance when working with Bitcoin, Ethereum, Ethereum Classic, Monero, Raven and other currencies, stands out for its high stability and easy setup.
 
 DOWNLOAD LINKS SMP/SMP+:
 =================================
@@ -60,6 +60,7 @@ Full list Support miners SMP+:
 
 + bminer-lite-v16.2.0
 + ccminer-2.3.1-cuda10
++ Nanominer-1.9.5
 + Claymore_v15.0
 + cpuminer-opt-3.12.4
 + CryptoDredge_0.22.0
