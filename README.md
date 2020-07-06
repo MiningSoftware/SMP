@@ -75,6 +75,7 @@ Command line options
 ===============================
 
 Network:
+--------
 
   -o, --url=URL                 URL of mining server
   -a, --algo=ALGO               mining algorithm 
@@ -95,12 +96,13 @@ Network:
       --user-agent              set custom user-agent string for pool
       --donate-level=N          donate level, default %% (5 minutes in 100 minutes)
       --donate-over-proxy=N     control donate over xmrig-proxy feature
-
+      
 CPU backend:
+------------
 
       --no-cpu                  disable CPU mining backend
-  -t, --threads=N               number of CPU threads
-  -v, --av=N                    algorithm variation, 0 auto select
+      -t, --threads=N               number of CPU threads
+      -v, --av=N                    algorithm variation, 0 auto select
       --cpu-affinity            set process affinity to CPU core(s), mask 0x3 for cores 0 and 1
       --cpu-priority            set process priority (0 idle, 2 normal to 5 highest)
       --cpu-max-threads-hint=N  maximum CPU threads count (in percentage) hint for autoconfig
@@ -118,6 +120,7 @@ CPU backend:
       --astrobwt-avx2           enable AVX2 optimizations for AstroBWT algorithm
 
 API:
+------------
 
       --api-worker-id=ID        custom worker-id for API
       --api-id=ID               custom instance ID for API
@@ -127,6 +130,7 @@ API:
       --http-no-restricted      enable full remote access to HTTP API (only if access token set)
 
 OpenCL backend:
+---------------
 
       --opencl                  enable OpenCL mining backend
       --opencl-devices=N        comma separated list of OpenCL devices to use
@@ -136,6 +140,7 @@ OpenCL backend:
       --print-platforms         print available OpenCL platforms and exit
 
 CUDA backend:
+-------------
 
       --cuda                    enable CUDA mining backend
       --cuda-loader=PATH        path to CUDA plugin (xmrig-cuda.dll or libxmrig-cuda.so)
@@ -145,6 +150,7 @@ CUDA backend:
       --no-nvml                 disable NVML (NVIDIA Management Library) support
 
 TLS:
+-----
 
       --tls-gen=HOSTNAME        generate TLS certificate for specific hostname
       --tls-cert=FILE           load TLS certificate chain from a file in the PEM format
@@ -155,6 +161,7 @@ TLS:
       --tls-ciphersuites=S      set list of available TLSv1.3 ciphersuites
 
 Logging:
+---------
 
   -S, --syslog                  use system log for output messages
   -l, --log-file=FILE           log all output to a file
@@ -164,6 +171,7 @@ Logging:
       --verbose                 verbose output
 
 Misc:
+--------
 
   -c, --config=FILE             load a JSON-format configuration file
   -B, --background              run the miner in the background
