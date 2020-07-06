@@ -76,23 +76,24 @@ Command line options
 
 Network:
 --------
-
-  -o, --url=URL                 URL of mining server
-  -a, --algo=ALGO               mining algorithm 
+    
+    --no-cpu                  disable CPU mining backend
+    -o, --url=URL                 URL of mining server
+    -a, --algo=ALGO               mining algorithm 
       --coin=COIN               specify coin instead of algorithm
-  -u, --user=USERNAME           username for mining server
-  -p, --pass=PASSWORD           password for mining server
-  -O, --userpass=U:P            username:password pair for mining server
-  -x, --proxy=HOST:PORT         connect through a SOCKS5 proxy
-  -k, --keepalive               send keepalive packet for prevent timeout (needs pool support)
+      -u, --user=USERNAME           username for mining server
+      -p, --pass=PASSWORD           password for mining server
+      -O, --userpass=U:P            username:password pair for mining server
+      -x, --proxy=HOST:PORT         connect through a SOCKS5 proxy
+      -k, --keepalive               send keepalive packet for prevent timeout (needs pool support)
       --nicehash                enable nicehash.com support
       --rig-id=ID               rig identifier for pool-side statistics (needs pool support)
       --tls                     enable SSL/TLS support (needs pool support)
       --tls-fingerprint=HEX     pool TLS certificate fingerprint for strict certificate pinning
       --daemon                  use daemon RPC instead of pool for solo mining
       --daemon-poll-interval=N  daemon poll interval in milliseconds (default: 1000)
-  -r, --retries=N               number of times to retry before switch to backup server (default: 5)
-  -R, --retry-pause=N           time to pause between retries (default: 5)
+      -r, --retries=N               number of times to retry before switch to backup server (default: 5)
+      -R, --retry-pause=N           time to pause between retries (default: 5)
       --user-agent              set custom user-agent string for pool
       --donate-level=N          donate level, default %% (5 minutes in 100 minutes)
       --donate-over-proxy=N     control donate over xmrig-proxy feature
@@ -163,8 +164,8 @@ TLS:
 Logging:
 ---------
 
-  -S, --syslog                  use system log for output messages
-  -l, --log-file=FILE           log all output to a file
+    -S, --syslog                  use system log for output messages
+    -l, --log-file=FILE           log all output to a file
       --print-time=N            print hashrate report every N seconds
       --health-print-time=N     print health report every N seconds
       --no-color                disable colored output
@@ -173,10 +174,10 @@ Logging:
 Misc:
 --------
 
-  -c, --config=FILE             load a JSON-format configuration file
-  -B, --background              run the miner in the background
-  -V, --version                 output version information and exit
-  -h, --help                    display this help and exit
+    -c, --config=FILE             load a JSON-format configuration file
+    -B, --background              run the miner in the background
+    -V, --version                 output version information and exit
+    -h, --help                    display this help and exit
       --dry-run                 test configuration and exit
       --export-topology         export hwloc topology to a XML file and exit
       --title                   set custom console window title
