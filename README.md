@@ -58,9 +58,12 @@ System requirements
 =================================
 
 + WINDOWS XP,7,8,10 or later (x64)
-+ CPU (x64/x86/ARM)
-+ OpenCL for AMD GPUs.
-+ CUDA for NVIDIA GPUs
++ CPU (x64/x86/ARM) For CPU mining a modern CPU with SSE2 support
++ OpenCL for AMD GPUs. For AMD mining any AMD GPU with OpenCL support
++ CUDA for NVIDIA GPUs. For NVIDIA mining any NVIDIA GPU with Compute capability (SM) 3.0 or newer
++ up-to-date patches for OS
++ up-to-date drivers for all GPUs
++ Reliable internet connectivity
 
 Full list Support miners SMP+:
 ==============================
