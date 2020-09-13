@@ -33,7 +33,6 @@ Screenshots GUI SMP+:
 DOWNLOAD LINKS SMP/SMP+:
 =================================
 
-GitHub: https://github.com/MiningSoftware/SMP
 MEGA: https://mega.nz/folder/aIdVBAQA#8fYOHtGKC9c4-sfuLd0ptA
 
 SMP (SmartMinerPRO) - version without pre-installed miners and .bat files
